@@ -1,9 +1,13 @@
-name: "my-website"
+name: "Thorpe Daley"
 output_dir: "."
 navbar:
-  title: "My Website"
+  title: "Thorpe Daley"
   left:
-    - text: "Home"
-      href: index.html
-    - text: "About"
-      href: about.html
+    - text: "Resume"
+      href: resume.html
+    - text: "My Research"
+      href: my_research.html
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate

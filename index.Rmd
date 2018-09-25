@@ -1,5 +1,17 @@
 ---
-title: "My Website"
+title: "Welcome!"
 ---
 
-Hello, Website!
+ My name is Thorpe Daley. I am a senior psychology major, human resource management minor. I am a certified life coach and am really passionate about helping people unlock their potential and be excited about their work and present stage of life. I plan on applying this to a career in business counseling, specializing in common organizational issues such as culture, productivity, and worker satisfaction. Currently, I am working on completing my undergraduate degree and applying for an MBA program. 
+ 
+ Contact me:
+ 
+ -email: jtdaleyiii@gmail.com
+ 
+ -phone: 336-740-2255
+ 
+ -[Linkedin](https://www.linkedin.com/in/thorpe-daley-11281787/)
+ 
+ -[Github](https://github.com/ThorpeDaley/ThorpeDaley.github.io)
+ 
+ 

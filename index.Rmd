@@ -14,4 +14,3 @@ title: "Welcome!"
  
  -[Github](https://github.com/ThorpeDaley/ThorpeDaley.github.io)
 
- 

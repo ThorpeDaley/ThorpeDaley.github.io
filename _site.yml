@@ -9,5 +9,5 @@ navbar:
       href: my_research.html
 output:
   html_document:
-    theme: cosmo
+    theme: cerulean
     highlight: textmate
